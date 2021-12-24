@@ -70,6 +70,9 @@ function App() {
             onDelete={onDelete}
           ></User>)
         }
+        <div style={{ textAlign: 'center' }}>
+          <h2>&copy; All Rights Reserved By <a href="https://github.com/devruhul"> Ruhul Amin</a></h2>
+        </div>
       </div>
     </div>
   );
